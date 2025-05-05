@@ -6,7 +6,6 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/LucasRossatto/acoes.py?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/LucasRossatto/acoes.py?style=for-the-badge)
 
-<img src="imagem.png" alt="Gráfico de barras mostrando o valor de mercado das ações">
 
 > Este projeto é um script Python que realiza web scraping no site [Investidor10](https://investidor10.com.br/) para extrair dados de ações, como código, nome e valor de mercado. Os dados são salvos em um arquivo CSV e visualizados em um gráfico de barras usando `matplotlib`. Ideal para quem quer aprender sobre automação, análise de dados e visualização com Python.
 
